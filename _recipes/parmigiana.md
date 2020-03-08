@@ -7,7 +7,7 @@ tags: low-carb
 
 ingredients:
 - 3 aubergines
-- 2 beef tomatoes (or equiv)
+- 2 beef tomatoes (or equivalent)
 - 2 tins of chopped tomatoes
 - 1 onion
 - 1 ball mozzarella

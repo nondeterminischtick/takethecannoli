@@ -22,9 +22,9 @@ directions:
 - Remove stems from mushrooms and use a spoon to scrape out the gills, set aside. Arrange mushroom caps on a baking dish and set aside.
 - Dice onion and peppers
 - Brown the sausage meat in a frying pan. Remove and set aside.
-- Add oil to the pan. Add the onil and peppers until water is released and evaoporated.
+- Add oil to the pan. Add the onion and peppers until water is released and evaporated.
 - Add the garlic and oregano, sauté for 30 seconds.
-- Add the tomatoes and Henderson's Relish. Add the sausage back into the pan, stir. 
+- Add the tomatoes, Henderson's Relish, mushroom stems and gills. Add the sausage back into the pan, stir. 
 - Simmer for at least 20 minutes
 - Spoon sausage mixture into the mushrooms, top with slices of mozzarella.
 - Bake for 15-20 minutes.
