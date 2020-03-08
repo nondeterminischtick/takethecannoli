@@ -35,11 +35,7 @@ directions:
 
 nutrition:
   servingSize: 1
-  calories: 400
-  carbohydrateContent: 35
-  fatContent: 8
-  proteinContent: 4
-  saturatedFatContent: 1
+  calories: 429
 
 
 

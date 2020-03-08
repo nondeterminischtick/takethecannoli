@@ -30,4 +30,11 @@ directions:
 - Bake for 15-20 minutes.
 - Garnish with basil.
 
+nutrition:
+  servingSize: 1
+  calories: 710
+
 ---
+
+
+2 Servings unless with a side.
